@@ -2,10 +2,10 @@
 #coding: utf-8
 
 #############
-#Dzjecter V2.0
+#sscan V2.0
 #############
 
-__author__ = "Yacine_Mohamed/Joker_Security"
+__author__ = "fouad ghaoui"
 __version__ = "2.0"
 
 
@@ -50,9 +50,9 @@ def banner():
                                :     `.--`.       '.   : 
                                `      `    `       ',`__)
                              >>> Bism Allah <<< \033[91m
-                       Script Name : DZJECTER V 2.0 \033[92m
-                 Developed By : Joker-Security / Yacine Mohamed \033[96m
-                        website : http://dev-labs.co \033[91m             
+                       Script Name : sscan V 2.0 \033[92m
+                 Developed By : dz0ne /fouad ghaoui /dark wolfs team \033[96m
+                        Facebook : www.facebook.com/dz0ne  \033[91m             
 '''
 def options():
 	print """
@@ -612,7 +612,7 @@ def main():
 	clear()
 	banner()
 	options()
-	dz = raw_input("\033[91mroot@Dzjecter:~# ")
+	dz = raw_input("\033[91mroot@sscan:~# ")
 	if dz == "1":
 		svrip = raw_input("\033[91mServer IP -> ")
 		getall(svrip)
