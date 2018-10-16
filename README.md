@@ -28,7 +28,6 @@ chmod +x installer.sh
 
 3?- Run sscan tool in terminal
 
-Dzjecter
 
 ## ★ Properties :
 
